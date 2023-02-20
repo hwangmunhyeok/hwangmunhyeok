@@ -1,4 +1,7 @@
-
+ 
+ <div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=MunHyeok_Hwang&fontSize=90&animation=twinkling" />	
+</div>	
 <h3 align="center">💻 SNS list 💻</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/>&nbsp
